@@ -1,6 +1,6 @@
 # Mi página de mascotas
 
-Este proyecto es una página web básica desarrollada en HTML. Su objetivo es mostrar información y fotos de mis mascotas a lo largo de los años.
+Este proyecto es una página web básica desarrollada en HTML. Su objetivo es mostrar información y fotos de mis mascotas en los últimos años.
 
 # Contenido
 
@@ -17,4 +17,4 @@ Este proyecto es una página web básica desarrollada en HTML. Su objetivo es mo
 5. Información de contacto en el pie de página.
 ## Autor
 
-❤️ Este código fue desarrollado en un **por Marco Rubio Bustos**.
+❤️ Este código fue desarrollado por **Marco Rubio Bustos**.
